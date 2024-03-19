@@ -1,0 +1,40 @@
+{
+  "modelName": "texture",
+  "name": "سمبوسة-removebg-preview",
+  "identifier": "texture:143839-d46b1cbc-f32c-46f6-81f5-32d97b1efe41",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "a823ac4e10210fc2b930379759b135ff",
+  "assetLocator": "textures/سمبوسة-removebg-preview.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:143949-d46b1cbc-f32c-46f6-81f5-32d97b1efe41",
+    "textureExportConfig:144061-d46b1cbc-f32c-46f6-81f5-32d97b1efe41"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 419,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 595,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "a823ac4e10210fc2b930379759b135ff",
+      "colorCount": 30905,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 6.188612013396151,
+      "pixelsHigh": 419,
+      "pixelsWide": 595
+    }
+  ]
+}
